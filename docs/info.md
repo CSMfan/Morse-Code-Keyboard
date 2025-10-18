@@ -15,7 +15,9 @@ The project works by turning the first 4 lights in a number display
 
 Turn switches 1-8 to see which lights in the number display turn on or off
 
-Ex:If 1,2 is turned off and 3,4,5,6,7,8 are turned on then the 1st light in the number display is turned off and the 2nd,3rd,and 4th are turned on
+Ex:If switches 1,and 2 are turned off, but switches 3,4,5,6,7,8 are turned on then the 1st light in the number display is turned off and the 2nd,3rd,and 4th are turned on
+
+Therefore 2 switches connected to the same nand can turn the lights in the number display on or off depending on the inputs
 
 ## External hardware
 
