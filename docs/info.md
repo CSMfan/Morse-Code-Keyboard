@@ -13,7 +13,9 @@ The project works by turning the first 4 lights in a number display
 
 ## How to test
 
-Turn switches 1-8 to see which lights turn on or off
+Turn switches 1-8 to see which lights in the number display turn on or off
+
+Ex:If 1,2 is turned off and 3,4,5,6,7,8 are turned on then the 1st light in the number display is turned off and the 2nd,3rd,and 4th are turned on
 
 ## External hardware
 
