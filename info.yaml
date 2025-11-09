@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     445163627174156289
-  title:        "FT's Wokwi"      # Project title
+  title:        "Morse Code Keyboard"      # Project title
   author:       "Frederick Tan"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Turns the first 4 lights in the number display on or off"      # One line description of what your project does
+  description:  "Turns an LED on asn off using a button"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -26,10 +26,10 @@ pinout:
   ui[7]: "input 7"
 
   # Outputs
-  uo[0]: "output nand ui0,1"
-  uo[1]: "output nand ui2,3"
-  uo[2]: "output nand ui4,5"
-  uo[3]: "output nand ui 6,7"
+  uo[0]: "n/a"
+  uo[1]: "n/a"
+  uo[2]: "n/a"
+  uo[3]: "n/a"
   uo[4]: "n/a"
   uo[5]: "n/a"
   uo[6]: "n/a"
