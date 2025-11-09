@@ -1,4 +1,4 @@
-Morse Code keyboard made by Frederick
+Morse Code keyboard
 
 How to Use:
 
